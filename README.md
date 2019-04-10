@@ -7,5 +7,5 @@ This video, in french, gives a tour of the interactions: https://www.youtube.com
 This game is the result of a project we worked on during our Master's degree at UPMC (Pierre et Marie Curie University) within the EVIJV course, Paris, in 2017-2018.
 
 
-Nicolas Billod
+Nicolas Billod, 
 Tanguy Soto
